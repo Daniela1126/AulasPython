@@ -6,4 +6,4 @@ while contador < 20:
     numero = int(input("Digite uma idade: "))
     soma = soma + numero
     contador = contador + 1
-print(soma)
+print("A soma de todas as idades é igual a " , soma)
